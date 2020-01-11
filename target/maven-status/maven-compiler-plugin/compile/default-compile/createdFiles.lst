@@ -1,0 +1,7 @@
+kr\test\controller\FileUploadController.class
+kr\test\TestApplication.class
+kr\test\exception\StorageException.class
+kr\test\exception\StorageFileNotFoundException.class
+kr\test\service\StorageService.class
+kr\test\properties\StorageProperties.class
+kr\test\service\FileSystemStroageService.class
